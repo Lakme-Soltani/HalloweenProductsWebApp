@@ -1,0 +1,240 @@
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\HalloweenProductsApp.dll.config
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\HalloweenProductsApp.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\HalloweenProductsApp.pdb
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\csc.exe
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\csc.exe.config
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\csc.rsp
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\csi.exe
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\csi.exe.config
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\csi.rsp
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.Managed.Core.targets
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.AppContext.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Collections.Immutable.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Console.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.IO.Compression.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.IO.FileSystem.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.IO.Pipes.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Security.AccessControl.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Security.Claims.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Security.Principal.Windows.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.ValueTuple.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Xml.XmlDocument.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Xml.XPath.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\vbc.exe
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\vbc.exe.config
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\vbc.rsp
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\VBCSCompiler.exe
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\roslyn\VBCSCompiler.exe.config
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\Antlr3.Runtime.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\EntityFramework.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\EntityFramework.SqlServer.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\Microsoft.Web.Infrastructure.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\Newtonsoft.Json.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.Helpers.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.Mvc.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.Optimization.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.Razor.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.WebPages.Deployment.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.WebPages.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.WebPages.Razor.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\WebGrease.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\EntityFramework.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\EntityFramework.SqlServer.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.Helpers.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.Mvc.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.Optimization.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.Razor.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.WebPages.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.WebPages.Deployment.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\System.Web.WebPages.Razor.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\Newtonsoft.Json.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\Antlr3.Runtime.pdb
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.csprojAssemblyReference.cache
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.csproj.CoreCompileInputs.cache
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.csproj.CopyComplete
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.dll
+H:\ASP.NET\Assignment\Lab3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.pdb
+H:\ASP.NET\HalloweenProductsApp\bin\HalloweenProductsApp.dll.config
+H:\ASP.NET\HalloweenProductsApp\bin\HalloweenProductsApp.dll
+H:\ASP.NET\HalloweenProductsApp\bin\HalloweenProductsApp.pdb
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\csc.exe
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\csc.exe.config
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\csc.rsp
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\csi.exe
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\csi.exe.config
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\csi.rsp
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.Managed.Core.targets
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.AppContext.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Collections.Immutable.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Console.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.IO.Compression.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.IO.FileSystem.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.IO.Pipes.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Security.AccessControl.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Security.Claims.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Security.Principal.Windows.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.ValueTuple.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Xml.XmlDocument.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Xml.XPath.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\vbc.exe
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\vbc.exe.config
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\vbc.rsp
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\VBCSCompiler.exe
+H:\ASP.NET\HalloweenProductsApp\bin\roslyn\VBCSCompiler.exe.config
+H:\ASP.NET\HalloweenProductsApp\bin\Antlr3.Runtime.dll
+H:\ASP.NET\HalloweenProductsApp\bin\EntityFramework.dll
+H:\ASP.NET\HalloweenProductsApp\bin\EntityFramework.SqlServer.dll
+H:\ASP.NET\HalloweenProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ASP.NET\HalloweenProductsApp\bin\Microsoft.Web.Infrastructure.dll
+H:\ASP.NET\HalloweenProductsApp\bin\Newtonsoft.Json.dll
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.Helpers.dll
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.Mvc.dll
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.Optimization.dll
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.Razor.dll
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.WebPages.Deployment.dll
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.WebPages.dll
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.WebPages.Razor.dll
+H:\ASP.NET\HalloweenProductsApp\bin\WebGrease.dll
+H:\ASP.NET\HalloweenProductsApp\bin\EntityFramework.xml
+H:\ASP.NET\HalloweenProductsApp\bin\EntityFramework.SqlServer.xml
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.Helpers.xml
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.Mvc.xml
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.Optimization.xml
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.Razor.xml
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.WebPages.xml
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.WebPages.Deployment.xml
+H:\ASP.NET\HalloweenProductsApp\bin\System.Web.WebPages.Razor.xml
+H:\ASP.NET\HalloweenProductsApp\bin\Newtonsoft.Json.xml
+H:\ASP.NET\HalloweenProductsApp\bin\Antlr3.Runtime.pdb
+H:\ASP.NET\HalloweenProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ASP.NET\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.csprojAssemblyReference.cache
+H:\ASP.NET\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.csproj.CoreCompileInputs.cache
+H:\ASP.NET\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.csproj.CopyComplete
+H:\ASP.NET\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.dll
+H:\ASP.NET\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.pdb
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.csprojAssemblyReference.cache
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.csproj.CoreCompileInputs.cache
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\HalloweenProductsApp.dll.config
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\HalloweenProductsApp.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\HalloweenProductsApp.pdb
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\csc.exe
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\csc.exe.config
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\csc.rsp
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\csi.exe
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\csi.exe.config
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\csi.rsp
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.Managed.Core.targets
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.AppContext.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Collections.Immutable.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Console.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.IO.Compression.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.IO.FileSystem.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.IO.Pipes.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Security.AccessControl.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Security.Claims.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Security.Principal.Windows.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.ValueTuple.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Xml.XmlDocument.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Xml.XPath.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\vbc.exe
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\vbc.exe.config
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\vbc.rsp
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\VBCSCompiler.exe
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\roslyn\VBCSCompiler.exe.config
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\Antlr3.Runtime.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\EntityFramework.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\EntityFramework.SqlServer.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\Microsoft.Web.Infrastructure.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\Newtonsoft.Json.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.Helpers.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.Mvc.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.Optimization.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.Razor.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.WebPages.Deployment.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.WebPages.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.WebPages.Razor.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\WebGrease.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\EntityFramework.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\EntityFramework.SqlServer.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.Helpers.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.Mvc.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.Optimization.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.Razor.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.WebPages.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.WebPages.Deployment.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\System.Web.WebPages.Razor.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\Newtonsoft.Json.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\Antlr3.Runtime.pdb
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.csproj.CopyComplete
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.dll
+H:\ASP.NET\for Lab 3\HalloweenProductsApp\obj\Debug\HalloweenProductsApp.pdb
