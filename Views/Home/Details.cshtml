@@ -1,0 +1,75 @@
+﻿@model HalloweenProductsApp.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+
+}
+<h2>@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShortDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShortDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LongDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LongDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageFile)
+        </dt>
+
+        <dd>
+            <img src="~/Images/@Model.ImageFile" />
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnitPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OnHand)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OnHand)
+        </dd>
+
+    </dl>
+</div>
+<p>
+@Html.ActionLink("Products", "Products") 
+</p>
